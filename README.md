@@ -1,2 +1,2 @@
 # International-Student-Document-Deadline-Management-System
-International students have to manage multiple documents, registrations, renewals, and university/government deadlines. The required information and deadlines can come from different sources, making it easy to miss an important requirement or renewal.
+International students need to manage multiple documents, registrations, renewals, and deadlines during their studies abroad. The required information and deadlines can come from different university, government, and other official sources, making it difficult to keep track of what needs to be done and when. Missing a required document or deadline can cause problems with their studies or stay in the country.
